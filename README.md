@@ -121,8 +121,8 @@ docker exec -it pipeline_weather-postgres-1 psql -U airflow -c \
 
 Abra `http://localhost:8080` no navegador.
 
-- **Usuário:** `admin`
-- **Senha:** `admin`
+- **Usuário:** `airflow`
+- **Senha:** `airflow`
 
 A DAG `weather_pipeline` aparecerá na lista. Ative-a com o toggle e ela executará a cada hora.
 
