@@ -243,7 +243,3 @@ uv run python main.py
 | DAG não aparece                    | Aguarde o DAG processor (~30s) ou reinicie os containers |
 
 ---
-
-## 📄 Licença
-
-MIT
